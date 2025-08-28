@@ -1,2 +1,2 @@
 # TestApp
-Account used is different from GITHUB DESKTOP
+Account used is different from GITHUB DESKTOP.
